@@ -1,9 +1,11 @@
+# Mindful Air
+James Shin, Ryan Main, Joshua Achiu
 ## Inspiration
 Our inspiration for **Mindful Air** was our desire to make a project that would have both a practical, yet unique purpose. After much brainstorming, we decided to tackle a project regarding the effects that air quality can have on a person's mental health.
 ## What it does
 First, Mindful Air gathers air quality data based on a location input from the user. After that, the app will take the user to a page that displays the levels of **NO2**, **PM2.5**, and **PM10** in the location selected. Each of these pollutants have a unique affect on mental health when at unsafe levels. We compared each pollutant to the EPA's "safe levels," letting the user know if certain pollutants are at dangerous levels. Below the chart, we have specific facts regarding the affect each of the three pollutants has on mental health when at unsafe levels.
 ## How we built it
-We built Mindful Air using swift. Swift is an IOS app development language which we used on XCode, which is apples IDE.
+We built Mindful Air using swift. Swift is an IOS app development language which we used on XCode, which is apples IDE. We also used ChatGPT for the visual design purposes in order to put our main focus on programming.ma
 ## Challenges we ran into
 The biggest challenge that we ran into was converting JSON data into a usable swift structure. Although, our group had experience regarding API's, integration of API's using swift proved to be very difficult due to the modern complexity and concurrency aspects of the language. As a result, our initial plan of using API Ninja's Air Quality API failed as it seemed that no matter what we did, swift would not let us convert our JSON
 ## Accomplishments that we're proud of
